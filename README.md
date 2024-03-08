@@ -7,12 +7,13 @@ Final year project, exploring the field of quantum machine learning.
 
 
 ## Installation
-Instructions on setting up the environment to run your notebooks. Include steps to clone the repo, install dependencies (`requirements.txt` or `environment.yml` for Conda), and any additional setup needed.
+Instructions on setting up the environment to run your notebooks. Include steps to clone the repo, install dependencies (`requirements.txt`) and any additional setup needed.
 
 ```bash
 git clone https://github.com/LukePower01/ml-to-qml.git
 cd ml-to-qml
 pip install -r requirements.txt
+```
 
 ## My Project Objectives
 The focus of this project is to learn and the fundamental principles of QML, and to investigate what new inferences can be maade about classical data, that cannot be made with classical machine learning. 
