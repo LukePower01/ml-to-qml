@@ -8,7 +8,7 @@ Final year project, exploring the field of quantum machine learning.
 
 ## Installation
 Instructions on setting up the environment to run your notebooks. Include steps to clone the repo, install dependencies (`requirements.txt`) and any additional setup needed.
-
+Would also recommend using a virtual environment.
 ```bash
 git clone https://github.com/LukePower01/ml-to-qml.git
 cd ml-to-qml
